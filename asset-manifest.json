@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/whitecat-monsters/static/css/main.fda9e1fa.chunk.css",
+    "main.js": "/whitecat-monsters/static/js/main.7b2367bb.chunk.js",
+    "main.js.map": "/whitecat-monsters/static/js/main.7b2367bb.chunk.js.map",
+    "runtime-main.js": "/whitecat-monsters/static/js/runtime-main.0fcbd248.js",
+    "runtime-main.js.map": "/whitecat-monsters/static/js/runtime-main.0fcbd248.js.map",
+    "static/js/2.db3844ca.chunk.js": "/whitecat-monsters/static/js/2.db3844ca.chunk.js",
+    "static/js/2.db3844ca.chunk.js.map": "/whitecat-monsters/static/js/2.db3844ca.chunk.js.map",
+    "index.html": "/whitecat-monsters/index.html",
+    "precache-manifest.ff439adc34df9bff4209c7e219a0de1f.js": "/whitecat-monsters/precache-manifest.ff439adc34df9bff4209c7e219a0de1f.js",
+    "service-worker.js": "/whitecat-monsters/service-worker.js",
+    "static/css/main.fda9e1fa.chunk.css.map": "/whitecat-monsters/static/css/main.fda9e1fa.chunk.css.map",
+    "static/js/2.db3844ca.chunk.js.LICENSE.txt": "/whitecat-monsters/static/js/2.db3844ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fcbd248.js",
+    "static/js/2.db3844ca.chunk.js",
+    "static/css/main.fda9e1fa.chunk.css",
+    "static/js/main.7b2367bb.chunk.js"
+  ]
+}
